@@ -1,5 +1,5 @@
 {
-  "name": "web",
+  "name": "runtime-sunset-haseena",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,7 @@
   },
   "devDependencies": {
     "@types/react-router-dom": "^5.1.5"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
